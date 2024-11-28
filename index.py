@@ -1,0 +1,2 @@
+msg="TYJO"
+print(msg)
